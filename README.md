@@ -1,7 +1,7 @@
 # Penguin Page
 This is a page designed to show a beautiful picture of a penguin on a sunny day.
 
-[Penguin Page](images/Screen Recording 2022-11-03 at 2.28.13 PM.mov)
+[Penguin Page](images/Penguin Page.mov)
 
 ## How It's Made:
 
